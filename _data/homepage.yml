@@ -11,9 +11,9 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: SG:Digital Wonderland
+hero-subtitle: Experience the digital future at Singapore's largest tech carnival
+hero-banner: /images/banner1.jpg
 
 #Call to Action Button
 button:
