@@ -4,7 +4,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 breadcrumb: Terms of Use
 ---
-General
 
 1. We thank you for visiting www.imda.gov.sg (“this Site"). This Site is the official website of the Infocomm Media Development Authority ("IMDA"). Your access and use of this Site constitutes your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Site.
 
