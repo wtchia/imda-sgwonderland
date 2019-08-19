@@ -20,13 +20,13 @@ Enter into an AI Robot world to find out how AI technologies are used in the mak
 
 **Lab on Wheels AI Escape Room**<br>
 
-
+![3](/images/discover/csi-experience.jpg)
 
 Enter the Lab on Wheels’ AI Escape Room to learn all about AI concepts while solving a series of AI challenges.
 
 **Lab on Wheels CSI experience**<br>
 
-![4](/images/discover/csi-experience.jpg)
+![4](/images/discover/discover4.jpg)
 
 Take part in the Cyber Security Investigation experience and role play as interns in Critical Infrastructure Companies (e.g. Train Company, Water Utility etc) and take part in a series of challenge-based activities to help you see the potential damage that can happen when a city is under cyber-attack.
 
