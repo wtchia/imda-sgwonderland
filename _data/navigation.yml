@@ -4,8 +4,6 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
 - title: About
   url: /about/
 - title: Discover
@@ -19,3 +17,5 @@
   sub-links:
   - title: Youth Innovation Awards
     url: /innovate/youth-innovation-awards/
+- title: Contact Us
+  url: /contact-us/
