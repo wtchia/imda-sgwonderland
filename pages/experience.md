@@ -21,6 +21,8 @@ Step into a zombie-infested zone and blast the zombies in this interactive Zombi
 <a name="3"></a><br>
 **Augmented Reality Dodgeball Challenge**<br>
 
+[3](/images/experience/AR_dodgeball.jpg)
+
 Do you have what it takes to be a master dodgeball champion? Check out HADO Singapore, the first-ever to showcase AR Exer-gaming, a fitness game combined with wearable devices powered by AR.
 
 <a name="4"></a><br>
