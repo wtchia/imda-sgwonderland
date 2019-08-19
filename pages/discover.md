@@ -1,6 +1,6 @@
 ---
 layout: simple-page
 title: Discover
-permalink: /discover/
+permalink: /discover1/
 breadcrumb: Discover
 ---
