@@ -5,7 +5,7 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/SGD-logo.png
 
 # Agency logo
 agency-logo: /images/isomer-logo.svg
@@ -17,19 +17,8 @@ hero-banner: /images/banner1.jpg
 
 #Call to Action Button
 button:
-  - text: Learn More
+  - text: Check out the exciting highlights from 2019!
     url: /about/
     
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+
 
