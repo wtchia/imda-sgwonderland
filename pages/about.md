@@ -26,3 +26,5 @@ Find out more at INNOVATE
 <div class="bp-youtube">
      <iframe width="560" height="315" src="https://www.youtube.com/embed/dET2sJclGrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+[Read more](https://www2.imda.gov.sg/news-and-events/impact-news/2019/07/A-Digital-Wonderland-Of-Innovation){:target="_blank"}
