@@ -24,4 +24,7 @@ Come witness our talented youths put their digital making and coding skills to t
 * [Code Quest](https://www.lockheedmartin.com/en-us/who-we-are/communities/codequest.html){:target=_"blank"}, an annual computer programming competition organised by Lockheed Martin where teams of 2-3 students (aged 14 to 18) each work together for 2.5 hours to solve problems by using JAVA, Python, VB.net, C, and/or C++ programming to complete the “quest.”<br>
 * [3D Tronics Digital Making for Good Challenge](https://www.3d-tronics.com/){:target="_blank"} is a platform for students and the public to showcase their skills in digital making and coding for good social causes.<br>
 * The Build On, Singapore 2019 Hackathon, jointly organised by IMDA, GovTech, Singapore Poly and Amazon Web Services (AWS), challenges students to create a safe and smart home environment for seniors and persons with disabilities using AWS products and services.<br>
+
 **Tech for Good Exhibition**
+
+Brought to you by students and the people from Engineering Good and Tech Pals, remember to check out the Tech for Good exhibition happening on both days that will showcase tech prototypes that are developed specifically for the digitally at-risk groups (special needs kids, seniors with dementia).
