@@ -11,20 +11,16 @@ Explore the latest technology to see what it is like to live in a digital future
 **DISCOVER**<br>
 Discover how AI is changing the way we live, understand the risks of cyber-attacks and learn the importance of enhancing your personal digital defence and safeguarding your personal data through fun and engaging activities.
 
-Find out more at DISCOVER
+Find out more at [DISCOVER](/discover/)
 
 **EXPERIENCE**<br>
 Experience and try out the latest tech gadgets and innovations that can help improve our lives! Interact with many immersive media experiences such as the dodgeball game that is powered by Augmented Reality, or take part in Singapore’s first Arcade Claw Game (Drone Edition) and stand a chance to grab home a prize!
 
-Find out more at EXPERIENCE
+Find out more at [EXPERIENCE](/experience/)
 
 **INNOVATE**<br>
 Sign up for hands-on workshops to tinker, create and have fun learning about coding and digital media. Be inspired by tech prototypes created by students and come cheer the students innovating and taking part in the Tech for Good coding competitions!
 
-Find out more at INNOVATE
+Find out more at [INNOVATE](/innovate/)
 
-<div class="bp-youtube">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/dET2sJclGrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
-[Read more](https://www2.imda.gov.sg/news-and-events/impact-news/2019/07/A-Digital-Wonderland-Of-Innovation){:target="_blank"}
