@@ -20,5 +20,5 @@ second_nav_title: "Youth Innovation Awards"
 
 <details>
   <summary><p>Best of Show Award</p></summary>
-    <img src="/images/innovate/yia/yia-2.jpg" alt="3">
+  <p><img src="/images/innovate/yia/yia-2.jpg" alt="3"></p>
   </details>
