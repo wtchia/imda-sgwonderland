@@ -4,7 +4,7 @@ title: SG:Digital Wonderland 2019 Highlights
 permalink: /highlights-2019/
 breadcrumb: SG:Digital Wonderland 2019 Highlights
 ---
-*Event statistics graphic*
+>*Event statistics graphic*
 
 #### Event Highlight Video
 
