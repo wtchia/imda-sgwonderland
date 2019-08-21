@@ -21,4 +21,7 @@ second_nav_title: "Youth Innovation Awards"
 <details>
   <summary><p>Best of Show Award</p></summary>
   <p><img src="/images/innovate/yia/yia-2.jpg" alt="3"></p>
+  <p><b>Best of Show Award</b></p><br>
+  <p>Whizz, Nanyang Technological University<p>
+  <p><b>Members</b><p>
   </details>
