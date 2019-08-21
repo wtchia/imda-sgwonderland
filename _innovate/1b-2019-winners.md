@@ -19,6 +19,6 @@ second_nav_title: "Youth Innovation Awards"
 | Best Sustainable Idea Award | Scoltech | University of Malaya | 
 
 <details>
-  <summary>Best of Show Award</summary>
+  <summary><p>Best of Show Award</p></summary>
     <img src="/images/innovate/yia/yia-2.jpg" alt="3">
   </details>
