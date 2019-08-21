@@ -6,6 +6,9 @@
 
 - title: About
   url: /about/
+  sub-links:
+      - title: 2019 Highlights
+        url: /highlights-2019/
 - title: Discover
   url: /discover/
 - title: Experience
