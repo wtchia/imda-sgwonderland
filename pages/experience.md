@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Experience
+title: Experience Zone
 permalink: /experience/
-breadcrumb: Experience
+breadcrumb: Experience Zone
 ---
 Look forward to a plethora of fun and excitement from discovering the latest tech gadgets and innovations that can help improve our lives; to interacting with a multitude of Immersive Media experiences, having fun with a game of Augmented Reality dodgeball to taking part in a myriad of activities at the Drone Arcade!
 
