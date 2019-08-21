@@ -9,15 +9,21 @@ Come on down to the Innovate Zone, to attend free tech workshops and have fun le
 
 **Youth Innovation Showcase and Awards 2019**
 
+![1](/images/innovate/yia/yia-1.jpg)
+
 Visit the Youth Innovation Showcase to check out some of the most innovative and cutting edge tech prototypes created by students from the Institutes of Higher Learning in Singapore and around the region. 
 
 Head down to the event and vote for your favourite project!
 
 **Workshops for all**
 
+![2](/images/innovate/innovate1.jpg)
+
 Spark off your creative talent! Innovate, tinker, create and have fun learning about coding and digital media through fun and engaging workshops and activities. Explore the art of storytelling through digital illustration and animation, learn how to create a simple internet-of-things home automation device and code a mobile app! Click here for workshop details and registration. 
 
 **Coding competitions**
+
+![3](/images/innovate/innovate2.jpg)
 
 Come witness our talented youths put their digital making and coding skills to the test. See how they #usetechforgood to compete and solve real world problems for good social causes. Watch our students battle it out at the competitions happening on both days!
 
@@ -26,5 +32,7 @@ Come witness our talented youths put their digital making and coding skills to t
 * The Build On, Singapore 2019 Hackathon, jointly organised by IMDA, GovTech, Singapore Poly and Amazon Web Services (AWS), challenges students to create a safe and smart home environment for seniors and persons with disabilities using AWS products and services.<br>
 
 **Tech for Good Exhibition**
+
+![4](/images/innovate/innovate3.jpg)
 
 Brought to you by students and the people from Engineering Good and Tech Pals, remember to check out the Tech for Good exhibition happening on both days that will showcase tech prototypes that are developed specifically for the digitally at-risk groups (special needs kids, seniors with dementia).
