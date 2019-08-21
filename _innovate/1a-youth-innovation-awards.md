@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Youth Innovation Awards
+title: Introduction
 permalink: /innovate/youth-innovation-awards/
-breadcrumb: Youth Innovation Awards
+breadcrumb: Introduction
 collection_name: innovate
 second_nav_title: "Youth Innovation Awards"
 ---
