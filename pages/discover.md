@@ -37,6 +37,9 @@ Take part in the Cyber Security Investigation experience and role play as intern
 Learn more about personal data protection and responsible data sharing at the Personal Data Protection Commission (PDPC) booth through a fun and interactive game!
 
 **Get Smart with Sherlock**<br>
+
+![6](/images/discover/discover-6.jpg)
+
 Learn how to detect and debunk fake news with the Get Smart with Sherlock fact-checking starter kit developed by the Media Literacy Council.
 
 The kit features Sherlock, your friendly neighbourhood detective, who will help you understand online falsehoods and give you tips and clues on how to spot it.
