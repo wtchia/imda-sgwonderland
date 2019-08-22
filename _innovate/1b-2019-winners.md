@@ -9,7 +9,7 @@ second_nav_title: "Youth Innovation Awards"
 
 ![1](/images/innovate/yia/yia-2.jpg)
 
-#### 2019 Winners
+### 2019 Winners
 
 | Category | Team | Institution|
 | -- | -- | -- |
@@ -20,7 +20,7 @@ second_nav_title: "Youth Innovation Awards"
 | Best Creative Idea Award | Robocoach | University of Hong Kong |
 
 <details>
-  <summary><p>Best of Show Award</p></summary>
+  <summary><p><h4>Best of Show Award</h4></p></summary>
   <p><img src="/images/innovate/yia/yia-2.jpg" alt="3"></p>
   <p><b>Winners</b></p>
   <p>Whizz, Nanyang Technological University</p>
