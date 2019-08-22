@@ -26,11 +26,11 @@ second_nav_title: "Youth Innovation Awards"
   <p><small>Whizz, Nanyang Technological University</small></p>
   <p><i>Members</i></p>
   <ul>
-  <li>Mr Victor Gwee</li>
+  <small><li>Mr Victor Gwee</li>
   <li>Miss Vivienne Chong</li>
   <li>Miss Valerie Ho</li>
   <li>Mr Anthony Fong</li>
-  <li>Mr Melvin Foo</li>
+    <li>Mr Melvin Foo</li></small>
   </ul>
   </details>
   
