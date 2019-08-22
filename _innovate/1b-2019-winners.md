@@ -20,9 +20,9 @@ second_nav_title: "Youth Innovation Awards"
 | Best Creative Idea Award | Robocoach | University of Hong Kong |
 
 <details>
-  <summary><p><h3 style="color:red;">Best of Show Award</h3></p></summary>
+  <summary><p><i>Best of Show Award</i></p></summary>
   <p><img src="/images/innovate/yia/yia-2.jpg" alt="3"></p>
-  <p><b>Winners</b></p>
+  <p><b><i>Winners</i></b></p>
   <p>Whizz, Nanyang Technological University</p>
   <p><b>Members</b></p>
   <ul>
