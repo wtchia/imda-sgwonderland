@@ -20,11 +20,11 @@ second_nav_title: "Youth Innovation Awards"
 | Best Creative Idea Award | Robocoach | University of Hong Kong |
 
 <details>
-  <summary><p><i>Best of Show Award</i></p></summary>
+  <summary><p><b>Best of Show Award</b></p></summary>
   <p><img src="/images/innovate/yia/yia-2.jpg" alt="3"></p>
-  <p><b><i>Winners</i></b></p>
-  <p>Whizz, Nanyang Technological University</p>
-  <p><b>Members</b></p>
+  <p><i>Winners</i></p>
+  <p><small>Whizz, Nanyang Technological University</small></p>
+  <p><i>Members</i></p>
   <ul>
   <li>Mr Victor Gwee</li>
   <li>Miss Vivienne Chong</li>
