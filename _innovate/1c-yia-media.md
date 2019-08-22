@@ -7,7 +7,7 @@ collection_name: innovate
 second_nav_title: "Youth Innovation Awards"
 ---
 | Article | Source |
-| -- | -- |
+| --- | --- |
 | <a href="https://www.straitstimes.com/tech/assistive-technologies-for-children-with-disabilities-highlighted-at-sgdigital-wonderland-2019" target="_blank">Assistive technologies for children with disabilities highlighted at SG:Digital Wonderland 2019</a> | The Straits Times |
 | <a href="https://www.zaobao.com.sg/news/singapore/story20190520-957824" target="_blank">“科技行善”创意工作坊和比赛要吸引2万人参加</a> | Lianhe Zaobao |
 | <a href="https://www.channelnewsasia.com/news/singapore/singapore-s-largest-tech-carnival-attracts-nearly-20-000-people-11547308" target="_blank">Singapore's largest tech carnival attracts nearly 20,000 people
