@@ -11,13 +11,14 @@ second_nav_title: "Youth Innovation Awards"
 
 ### 2019 Winners
 
-| Category | Team | Institution|
+| Category | Team | Institution |
 | -- | -- | -- |
 | Best of Show Award | Whizz | Nanyang Technological University |
 | Visitors' Choice Award | Whizz | Nanyang Technological University |
 | Best Citizen Centric Award | Aqua Check | University of San Carlos | 
 | Best Sustainable Idea Award | Scoltech | University of Malaya |
 | Best Creative Idea Award | Robocoach | University of Hong Kong |
+
 <br>
 <details>
   <summary><p><b>Best of Show Award</b></p></summary>
