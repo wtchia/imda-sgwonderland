@@ -19,6 +19,8 @@ hero-banner: /images/banner1.jpg
 button:
   - text: Check out the exciting highlights from 2019!
     url: /highlights-2019/
+
+homepage_careers: true
     
 
 
