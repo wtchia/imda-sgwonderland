@@ -6,3 +6,12 @@
   img: /images/banner1.jpg
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=wZcNhxsKWVw
+
+- title: Stories
+  name: Sophia Huang
+  position: Mother of Two
+  # dept: Government Digital Services, Data Science Division
+  story: I don’t like to throw something away without thinking what else it can be used for. I think it’s important to have a culture where people create and not just consume.
+  img: images/sophia.png
+  button-text: Read more
+  button-url: https://www.youtube.com/watch?v=Z-QXY64hHrE
