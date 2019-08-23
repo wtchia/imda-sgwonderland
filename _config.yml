@@ -8,8 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
 safe: false
-kramdown:
-  parse_block_html: true
+
 
 plugins:
   - jekyll-feed
