@@ -20,6 +20,28 @@ button:
   - text: Check out the exciting highlights from 2019!
     url: /highlights-2019/
 
+info-sections:
+  - section-title: 
+    section-subtitle: Discover Zone
+    section-description: Loren Ipsum
+    section-more-button: Learn more
+    section-more-button-url: /discover/
+    section-image-path: /images/discover/concierge_ robot.jpg
+
+  - section-title: 
+    section-subtitle: Experience Zone
+    section-description:  Loren Ipsum
+    section-more-button: Learn more
+    section-more-button-url: /experience
+    section-image-path: /images/experience/experience2.jpg
+
+  - section-title: 
+    section-subtitle: Innovate Zone
+    section-description: Loren Ipsum
+    section-more-button: Learn more
+    section-more-button-url: /innovate
+    section-image-path: /images/innovate/innovate3.jpg
+
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
 careers-subtitle: Our Zero Waste Heroes
