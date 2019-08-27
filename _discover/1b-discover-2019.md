@@ -8,6 +8,7 @@ second_nav_title: Discover Zone
 ---
 Gearing up for the digital future? Want to experience a mock cyber-attack and the damages it can potentially cause? Learn how to protect yourself in the digital age and discover how Artificial Intelligence (AI) technologies can transform almost everything from home living products to services. Visit the Discover Zone to learn more and get a chance to win attractive prizes in our sure win lucky dip! 
 
+<a name="top"></a>
 [Artificial Intelligence](#1) | [Cyber Security](#2) | [Media Literacy](#3)
 
 <a name="1"></a><br>
@@ -31,6 +32,8 @@ Enter into an AI Robot world to find out how AI technologies are used in the mak
 
 Enter the Lab on Wheels’ AI Escape Room to learn all about AI concepts while solving a series of AI challenges.
 
+[Back to Top](#top)
+
 <a name="2"></a><br>
 ### **Cyber Security**
 
@@ -45,6 +48,8 @@ Take part in the Cyber Security Investigation experience and role play as intern
 ![7](/images/discover/discover7.jpg)
 
 Cybercrime is on the rise and it is important for us to protect ourselves so we do not become the next victim. Just as we lock our doors to keep burglars out, we must secure our devices and information to keep ourselves safe from cyber criminals. Play a game on identifying phishing attempts and learn simple tips to go safe online. The Cyber Security Agency of Singapore (CSA) is the national agency overseeing cybersecurity strategy, operations, education, outreach and ecosystem development.
+
+[Back to Top](#top)
 
 <a name="3"></a><br>
 ### **Media Literacy**
@@ -62,6 +67,8 @@ Learn more about personal data protection and responsible data sharing at the Pe
 Learn how to detect and debunk fake news with the Get Smart with Sherlock fact-checking starter kit developed by the Media Literacy Council.
 
 The kit features Sherlock, your friendly neighbourhood detective, who will help you understand online falsehoods and give you tips and clues on how to spot it.
+
+[Back to Top](#top)
 
 | Artificial Intelligence | Cyber Security | Media Literacy |
 | -- | -- | --|
