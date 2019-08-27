@@ -37,14 +37,14 @@ info-sections:
     section-subtitle: Experience Zone
     section-description: Look forward to a plethora of fun and excitement from discovering the latest tech gadgets and innovations that can help improve our lives; to interacting with a multitude of Immersive Media experiences, having fun with a game of Augmented Reality dodgeball to taking part in a myriad of activities at the Drone Arcade!
     section-more-button: Learn more
-    section-more-button-url: /experience
+    section-more-button-url: /experience-2019
     section-image-path: /images/experience/experience2.jpg
 
   - section-title: 
     section-subtitle: Innovate Zone
     section-description: Come on down to the Innovate Zone, to attend free tech workshops and have fun learning about coding and digital making. Get inspired by cutting edge tech prototypes created by students and join the crowd to cheer our local and regional students innovating and participating in the Youth Innovation Awards, Code Quest and Tech for Good coding competitions!
     section-more-button: Learn more
-    section-more-button-url: /innovate
+    section-more-button-url: /innovate-2019
     section-image-path: /images/innovate/innovate3.jpg
 
 # Careers Section
