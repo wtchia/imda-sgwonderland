@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: d2019
+title: 2019 Edition
 permalink: /discover-2019
-breadcrumb: d2019
+breadcrumb: 2019 Edition
 collection_name: discover
 second_nav_title: Discover Zone
 ---
