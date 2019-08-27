@@ -47,3 +47,5 @@ collections:
     output: true
   discover:
     output: true
+  experience:
+    output: true
