@@ -61,8 +61,6 @@ Get served with your favourite coffee from a robotic barista at Crown Coffee, co
   </tr>
 </table>
 
-**Partners**<br>
-
 
 [Back to Top](#top)
 
