@@ -15,10 +15,15 @@ hero-title: SG:Digital Wonderland
 hero-subtitle: Experience the digital future at Singapore's largest tech carnival
 hero-banner: /images/banner1.jpg
 
-#Call to Action Button
-button:
-  - text: Check out the exciting highlights from 2019!
-    url: /highlights-2019/
+# I want to dropdown
+i-want-to:
+  - title: showcase my innovative product for 2020 
+    url: /about/
+  - title: conduct tech and media workshops
+    url: /about/
+  - title: register my interest to attend the event 
+    url: /about/
+
 
 info-sections:
   - section-title: 
