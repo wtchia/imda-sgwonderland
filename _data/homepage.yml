@@ -28,9 +28,8 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Discover Zone
-    section-description: Loren Ipsum
-    section-more-button: Learn more
-    section-more-button-url: /discover/
+    section-description: Gearing up for the digital future? Want to experience a mock cyber-attack and the damages it can potentially cause? Learn how to protect yourself in the digital age and discover how Artificial Intelligence (AI) technologies can transform almost everything from home living products to services. Visit the Discover Zone to learn more and get a chance to win attractive prizes in our sure win lucky dip!    section-more-button: Learn more
+    section-more-button-url: /discover-2019
     section-image-path: /images/discover/concierge_ robot.jpg
 
   - section-title: 
