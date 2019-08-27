@@ -6,6 +6,10 @@ breadcrumb: About
 ---
 Previously known as Tech Saturday, Singapore’s largest tech carnival is back as the SG:Digital Wonderland, with more cool gadgets and exciting activities lined up for everyone to discover, experience and innovate!
 
+Event Details:<br>
+18-19 May 2019<br>
+Suntec City Convention Centre
+
 Explore the latest technology to see what it is like to live in a digital future, and try the interactive experiences to discover how technology is positively changing the way we live, work and play.  Whether you are young or young-at-heart, there would be something for everyone, come and Discover, Experience and Innovate with new and exciting tech at SG:D Wonderland!
 
 **DISCOVER**<br>
