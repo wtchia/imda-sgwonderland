@@ -45,3 +45,5 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   innovate:
     output: true
+  discover:
+    output: true
