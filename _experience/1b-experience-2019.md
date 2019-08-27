@@ -27,7 +27,7 @@ Get served with your favourite coffee from a robotic barista at Crown Coffee, co
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky" colspan="3">Partners</th>
+    <th class="tg-0pky" colspan="3"><b>Partners</b></th>
   </tr>
   <tr>
     <td class="tg-y698">Actxa</td>
