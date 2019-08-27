@@ -67,4 +67,26 @@ The kit features Sherlock, your friendly neighbourhood detective, who will help 
 | -- | -- | --|
 | <img src="/images/discover/discover1.jpg" width="130" height="130" /><br>**AI Smart Home Studio**<br>Experience the home of the future powered by AWS: make a cup of coffee, turn on calming lights to softly illuminate the space, and have your favourite music playing soothingly as you wind down— simply by using your voice. That’s the future of home automation. | <img src="/images/discover/discover4.jpg" width="130" height="130" /><br>**Lab on Wheels CSI experience**<br>Take part in the Cyber Security Investigation experience and role play as interns in Critical Infrastructure Companies (e.g. Train Company, Water Utility etc) and take part in a series of challenge-based activities to help you see the potential damage that can happen when a city is under cyber-attack. | <img src="/images/discover/discover5.jpg" width="130" height="130" /><br>**Your Personal Data, Your Choice!**<br>Learn more about personal data protection and responsible data sharing at the Personal Data Protection Commission (PDPC) booth through a fun and interactive game! |
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Lato;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0lax">Artificial Intelligence</th>
+    <th class="tg-0lax">Cyber Security</th>
+    <th class="tg-0lax">Media Literacy</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="/images/discover/discover1.jpg" width="130" height="130" /><br>**AI Smart Home Studio**<br>Experience the home of the future powered by AWS: make a cup of coffee, turn on calming lights to softly illuminate the space, and have your favourite music playing soothingly as you wind down— simply by using your voice. That’s the future of home automation.</td>
+    <td class="tg-0lax"><img src="/images/discover/discover4.jpg" width="130" height="130" /><br>**Lab on Wheels CSI experience**<br>Take part in the Cyber Security Investigation experience and role play as interns in Critical Infrastructure Companies (e.g. Train Company, Water Utility etc) and take part in a series of challenge-based activities to help you see the potential damage that can happen when a city is under cyber-attack.</td>
+    <td class="tg-0lax"><img src="/images/discover/discover5.jpg" width="130" height="130" /><br>**Your Personal Data, Your Choice!**<br>Learn more about personal data protection and responsible data sharing at the Personal Data Protection Commission (PDPC) booth through a fun and interactive game!</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</table>
