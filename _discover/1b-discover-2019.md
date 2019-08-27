@@ -32,7 +32,7 @@ Enter into an AI Robot world to find out how AI technologies are used in the mak
 Enter the Lab on Wheels’ AI Escape Room to learn all about AI concepts while solving a series of AI challenges.
 
 <a name="2"></a><br>
-**#### Cyber Security**
+#### **Cyber Security**
 
 **Lab on Wheels CSI experience**<br>
 
