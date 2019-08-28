@@ -22,5 +22,4 @@ second_nav_title: Media Coverage
 | <a href="https://thesmartlocal.com/read/futuristic-tech-singapore" target="_blank">7 Technologies In Singapore Straight Out Of The Future – Drone Delivery, Robot Staff & Smart Lamp Posts</a> | TheSmartLocal |
 | <a href="https://vulcanpost.com/663445/why-learn-coding-skills/" target="_blank">Preparing For The Future: Why Coding Is A 21st Century Skill That We Must Learn To Master</a> | Vulcan Post |
 | <a href="https://sea.mashable.com/tech/3829/5-ways-singapore-is-pushing-the-virtual-reality-frontier" target="_blank">5 ways Singapore is pushing the Virtual Reality frontier</a> | Mashable SEA |
-| <a href="https://thesmartlocal.com/read/sg-digital-wonderland-2019
-" target="_blank">SG:Digital Wonderland Is A Free Carnival With AR Dodgeball, Drone Arcade Games & A CSI Experience</a> | TheSmartLocal |
+| <a href="https://thesmartlocal.com/read/sg-digital-wonderland-2019" target="_blank">SG:Digital Wonderland Is A Free Carnival With AR Dodgeball, Drone Arcade Games & A CSI Experience</a> | TheSmartLocal |
