@@ -17,6 +17,8 @@ Congratulations to all our Youth Innovation Awards receipients! Read more about 
 
 **Team Whizz from Nanyang Technological University, Singapore**
 
+![a](/images/innovate/yia/whizz.jpg)
+
 Project Description: <br>
 On-demand autonomous e-scooter service with self-redistributing, orientating, parking and charging features. 
 
@@ -26,6 +28,8 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
 <sub>Innovation takes a people-first approach by focusing on topics which affects them most, and making the most difference to citizens in the way they work, live and play.</sub>
 
 **Team Aqua Check from University of San Carlos, Philippines**
+
+![b](/images/innovate/yia/aquacheck.jpg)
 
 Project Description: <br>
 Water contamination detection mobile application that equips users with the ability to check water for contamination. The mobile application recognises different types of bacteria by uploading a microscopic photo of water sample onto the app's cloud database. 
@@ -37,6 +41,8 @@ Water contamination detection mobile application that equips users with the abil
 
 **Team Scoltech from University of Malaya, Malaysia**
 
+![c](/images/innovate/yia/scoltech.jpg)
+
 Project description:<br>
 A portable device that can detect scoliosis. The device is able to provide accurate digital reading using an accelerometer and rotary encoder, and thus eliminate the need for repeated x-ray scanning for routine measurement. 
 
@@ -47,6 +53,8 @@ A portable device that can detect scoliosis. The device is able to provide accur
 
 **Team Robocoach from University of Hong Kong, Hong Kong** 
 
+![d](/images/innovate/yia/robocoach.jpg)
+
 Project Description:<br>
 Assistive coaching for yoga and golf through AI, computer vision, and deep learning. Robocoach is able to analyse a user posture and provide feedback to help them improve their performance.
 
@@ -56,6 +64,8 @@ Assistive coaching for yoga and golf through AI, computer vision, and deep learn
 <sub>A favourite among visitors; presented to the crowd’s favourite via online and onsite voting</sub>
 
 **Team Whizz from Nanyang Technological University, Singapore**
+
+![e](/images/innovate/yia/whizz2.jpg)
 
 Project Description:<br>
 On-demand autonomous e-scooter service with self-redistributing, orientating, parking and charging features. 
