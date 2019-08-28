@@ -18,7 +18,12 @@
   sub-links:
       - title: Youth Innovation Awards
         url: /innovate/youth-innovation-awards/
-- title: Media Coverage
-  url: /media-coverage/
+- title: Stories
+  url: null
+  sub-links:
+      - title: Features
+        url:
+      - title: Media
+        url: /media-2019
 - title: Contact Us
   url: /contact-us/
