@@ -38,3 +38,15 @@ Come witness our talented youths put their digital making and coding skills to t
 ![4](/images/innovate/innovate3.jpg)
 
 Brought to you by students and the people from Engineering Good and Tech Pals, remember to check out the Tech for Good exhibition happening on both days that will showcase tech prototypes that are developed specifically for the digitally at-risk groups (special needs kids, seniors with dementia).
+
+**Tech Excursion**
+
+![5](/images/innovate/innovate4.jpg)
+
+The Tech Excursion is a specially curated experience for children from self-help groups to experience and benefit from technology at the event
+
+**Marketplace**
+
+![6](/images/innovate/innovate5.jpg)
+
+More than 20 technology partners will be showcasing the latest educational products and gadgets! Check out their exciting offerings at the Marketplace
