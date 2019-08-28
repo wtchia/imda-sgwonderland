@@ -50,3 +50,5 @@ collections:
     output: true
   experience:
     output: true
+  media:
+    output: true
