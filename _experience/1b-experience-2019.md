@@ -20,8 +20,8 @@ Get served with your favourite coffee from a robotic barista at Crown Coffee, co
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Lato;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Lato;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg td{font-family:Lato;font-size:16px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:16px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
 </style>
@@ -70,6 +70,21 @@ Get served with your favourite coffee from a robotic barista at Crown Coffee, co
 ![2](/images/experience/experience2b.jpg)
 
 Step into a zombie-infested zone and blast the zombies in this interactive Zombie Busters game from HeadRock VR, or be an archaeologist and learn about real-life artefacts and Singapore’s history through the virtual reality experience Excavation through Time in VR from Immersively. See how Mixed Reality is reshaping the learning, practice and research of medicine and health sciences with 3D visualization of the human anatomy with the Hololens by Serl.io, or simply sit back and relax at the VR Cinema powered by Hiverlab’s Storyhive platform where you can immerse in 360 documentaries of your choice. There’s a lot more to try at the Digital Media Playground!
+
+Presented by the following partners:<br>
+
+| Partner | Experience |
+| --- | --- |
+| Hiverlab | VR Cinema |
+| Ignite VR | VR Food Fight |
+| iMMERSIVELY | "An Excavation through Time" in VR |
+| Mages Studio | Safety Training in VR |
+| Mediafront Singapore | Zombie Busters |
+| Serl.io | Transforming Medical and Health Sciences with Mix Reality |
+| Sora Media | Dangerous Jobs VR 360 |
+| The MeshMinds Foundation | Art X Tech for Good |
+| Singapore International Foundation | (In)visible Sound |
+| Our Better World | From Wheelchairs to Motorbikes |
 
 [Back to Top](#top)
 
