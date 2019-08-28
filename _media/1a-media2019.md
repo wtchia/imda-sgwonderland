@@ -23,3 +23,41 @@ second_nav_title: Media Coverage
 | <a href="https://vulcanpost.com/663445/why-learn-coding-skills/" target="_blank">Preparing For The Future: Why Coding Is A 21st Century Skill That We Must Learn To Master</a> | Vulcan Post |
 | <a href="https://sea.mashable.com/tech/3829/5-ways-singapore-is-pushing-the-virtual-reality-frontier" target="_blank">5 ways Singapore is pushing the Virtual Reality frontier</a> | Mashable SEA |
 | <a href="https://thesmartlocal.com/read/sg-digital-wonderland-2019" target="_blank">SG:Digital Wonderland Is A Free Carnival With AR Dodgeball, Drone Arcade Games & A CSI Experience</a> | TheSmartLocal |
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Lato;font-size:16px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:16px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th><b>Article</b></th>
+    <th><b>Source</b></th>
+  </tr>
+  <tr>
+    <td class="tg-y698">Actxa</td>
+    <td class="tg-y698">AICO Technologies</td>
+     </tr>
+  <tr>
+    <td class="tg-0pky">Bekind Solutions</td>
+    <td class="tg-0pky">Biorithm</td>
+      </tr>
+  <tr>
+    <td class="tg-y698">GeneLife</td>
+    <td class="tg-y698">gush</td>
+     </tr>
+  <tr>
+    <td class="tg-0pky">Kohepets</td>
+    <td class="tg-0pky">MixGo-Commune</td>
+     </tr>
+  <tr>
+    <td class="tg-y698">Newton's Meter</td>
+    <td class="tg-y698">Streamcast Asia</td>
+      </tr>
+  <tr>
+    <td class="tg-0pky">uHoo</td>
+    <td class="tg-0pky">Whyre</td>
+      </tr>
+</table>
