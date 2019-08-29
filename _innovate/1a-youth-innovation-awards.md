@@ -7,7 +7,7 @@ collection_name: innovate
 second_nav_title: "Youth Innovation Awards"
 ---
 
-![1](/images/innovate/yia/YIAlogo_190508_YIA.png)
+<p><img src="/images/innovate/yia/YIAlogo_190508_YIA.png" alt="1" style="float:center;width:532px;height:591px;"></p>
 
 The Youth Innovation Showcase and Awards is a platform for local and regional youths to come together to showcase their innovative and cutting edge tech prototypes. 
 
