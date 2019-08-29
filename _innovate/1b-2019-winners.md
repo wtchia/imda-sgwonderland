@@ -24,7 +24,8 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
 
 ---
 
-<figure><img src="/images/innovate/yia/YIAlogo_190508_BestCitizenCentric.png" alt="2" style="float:center;width:266px;height:295px;margin:0px 20px"></p>
+<figure>
+  <img src="/images/innovate/yia/YIAlogo_190508_BestCitizenCentric.png" alt="2" style="float:center;width:266px;height:295px;margin:0px 20px">
 <figcaption>Innovation takes a people-first approach by focusing on topics which affects them most, and making the most difference to citizens in the way they work, live and play.</figcaption>
 </figure>
 
@@ -49,7 +50,7 @@ A portable device that can detect scoliosis. The device is able to provide accur
 
 ---
 
-<p><img src="/images/innovate/yia/YIAlogo_190508_BestCreativeIdea.png" alt="4" style="float:center;width:266px;height:295px;margin:0px 20px"></p>
+<img src="/images/innovate/yia/YIAlogo_190508_BestCreativeIdea.png" alt="4" style="float:center;width:266px;height:295px;margin:0px 20px">
 <sub>Demonstrates a creative and unique usage of technology incorporated in the prototype or has developed a prototype that is truly unique.</sub>
 
 **Team Robocoach from University of Hong Kong, Hong Kong** 
@@ -61,7 +62,7 @@ Assistive coaching for yoga and golf through AI, computer vision, and deep learn
 
 ---
 
-![5](/images/innovate/yia/YIAlogo_190508_VisitorsChoiceAward.png)
+<img src="/images/innovate/yia/YIAlogo_190508_VisitorsChoiceAward.png" alt="5" style="float:center;width:266px;height:295px;margin:0px 20px">
 <sub>A favourite among visitors; presented to the crowd’s favourite via online and onsite voting</sub>
 
 **Team Whizz from Nanyang Technological University, Singapore**
