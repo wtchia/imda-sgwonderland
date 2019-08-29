@@ -12,7 +12,7 @@ Congratulations to all our Youth Innovation Awards receipients! Read more about 
 ### 2019 Winners
 
 <p><figure>
-  <img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="1" style="width:266px;height:295px;margin:0px 250px"></p>
+  <img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="1" style="width:266px;height:295px;margin:0px 250px">
 Overall best for being the most impactful on the way citizens’ work, live and play
 </figure></p>
 
@@ -40,7 +40,7 @@ Water contamination detection mobile application that equips users with the abil
 ---
 
 <p><figure>
-  <img src="/images/innovate/yia/YIAlogo_190508_BestSustainableIdea.png" alt="3" style="width:266px;height:295px;margin:0px 250px"></p>
+  <img src="/images/innovate/yia/YIAlogo_190508_BestSustainableIdea.png" alt="3" style="width:266px;height:295px;margin:0px 250px">
 Most promising product, service, process or platform which has the potential to be sustainable in the long run.</figure></p>
 
 **Team Scoltech from University of Malaya, Malaysia**
