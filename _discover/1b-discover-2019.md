@@ -11,7 +11,7 @@ Gearing up for the digital future? Want to experience a mock cyber-attack and th
 <a name="top"></a>
 [Artificial Intelligence](#1) | [Cyber Security](#2) | [Media Literacy](#3)
 
-<a name="1"></a><br>
+<a name="1"></a>
 ### **Artificial Intelligence**
 
 **AI Smart Home Studio**<br>
