@@ -52,3 +52,5 @@ collections:
     output: true
   media:
     output: true
+  highlights:
+    output: true
