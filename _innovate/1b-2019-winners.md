@@ -24,8 +24,9 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
 
 ---
 
-<p><img src="/images/innovate/yia/YIAlogo_190508_BestCitizenCentric.png" alt="2" style="float:center;width:266px;height:295px;margin:0px 20px"></p>
-<sub>Innovation takes a people-first approach by focusing on topics which affects them most, and making the most difference to citizens in the way they work, live and play.</sub>
+<figure><img src="/images/innovate/yia/YIAlogo_190508_BestCitizenCentric.png" alt="2" style="float:center;width:266px;height:295px;margin:0px 20px"></p>
+<figcaption>Innovation takes a people-first approach by focusing on topics which affects them most, and making the most difference to citizens in the way they work, live and play.</figcaption>
+</figure>
 
 **Team Aqua Check from University of San Carlos, Philippines**
 
@@ -36,7 +37,7 @@ Water contamination detection mobile application that equips users with the abil
 
 ---
 
-<p><img src="/images/innovate/yia/YIAlogo_190508_BestSustainableIdea.png" alt="3" style="float:center;width:266px;height:295px;margin:0px 20px"></p>
+<p><img src="/images/innovate/yia/YIAlogo_190508_BestSustainableIdea.png" alt="3" style="float:centre;width:266px;height:295px;margin:0px 20px"></p>
 <sub>Most promising product, service, process or platform which has the potential to be sustainable in the long run.</sub>
 
 **Team Scoltech from University of Malaya, Malaysia**
