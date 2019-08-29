@@ -1,8 +1,11 @@
+
 ---
-layout: simple-page
-title: SG:Digital Wonderland 2019 Highlights
+layout: leftnav-page-content
+title: 2019 Highlights
 permalink: /highlights-2019/
-breadcrumb: SG:Digital Wonderland 2019 Highlights
+breadcrumb: 2019 Highlights
+collection_name: highlights
+second_nav_title: "Highlights"
 ---
 >*Event statistics graphic*
 
