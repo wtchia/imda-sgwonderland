@@ -11,7 +11,7 @@ second_nav_title: "Youth Innovation Awards"
 Congratulations to all our Youth Innovation Awards receipients! Read more about their projects below.
 ### 2019 Winners
 
-![1](/images/innovate/yia/YIAlogo_190508_BestOfShow.png)
+<p><img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="1" style="float:center;width:266px;height:295px;margin:0px 20px"></p>
 <sub>Overall best for being the most impactful on the way citizens’ work, live and play
 </sub>
 
@@ -24,7 +24,7 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
 
 ---
 
-![2](/images/innovate/yia/YIAlogo_190508_BestCitizenCentric.png)
+<p><img src="/images/innovate/yia/YIAlogo_190508_BestCitizenCentric.png" alt="2" style="float:center;width:266px;height:295px;margin:0px 20px"></p>
 <sub>Innovation takes a people-first approach by focusing on topics which affects them most, and making the most difference to citizens in the way they work, live and play.</sub>
 
 **Team Aqua Check from University of San Carlos, Philippines**
@@ -36,7 +36,7 @@ Water contamination detection mobile application that equips users with the abil
 
 ---
 
-![3](/images/innovate/yia/YIAlogo_190508_BestSustainableIdea.png)
+<p><img src="/images/innovate/yia/YIAlogo_190508_BestSustainableIdea.png" alt="3" style="float:center;width:266px;height:295px;margin:0px 20px"></p>
 <sub>Most promising product, service, process or platform which has the potential to be sustainable in the long run.</sub>
 
 **Team Scoltech from University of Malaya, Malaysia**
@@ -48,7 +48,7 @@ A portable device that can detect scoliosis. The device is able to provide accur
 
 ---
 
-![4](/images/innovate/yia/YIAlogo_190508_BestCreativeIdea.png)
+<p><img src="/images/innovate/yia/YIAlogo_190508_BestCreativeIdea.png" alt="4" style="float:center;width:266px;height:295px;margin:0px 20px"></p>
 <sub>Demonstrates a creative and unique usage of technology incorporated in the prototype or has developed a prototype that is truly unique.</sub>
 
 **Team Robocoach from University of Hong Kong, Hong Kong** 
