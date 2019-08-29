@@ -11,7 +11,7 @@ Look forward to a plethora of fun and excitement from discovering the latest tec
 <a name="top"></a>
 [Future Ready Living](#1) | [Digital Media Playground](#2) | [Augmented Reality Dodgeball Challenge](#3) | [Fun with Drones](#4) | [eSports Stadia](#5)
 
-<a name="1"></a><br>
+<a name="1"></a>
 ### **Future Ready Living**<br>
 
 ![1](/images/experience/experience1b.jpg)
