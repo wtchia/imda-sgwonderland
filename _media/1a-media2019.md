@@ -7,7 +7,7 @@ collection_name: media
 second_nav_title: Media Coverage
 ---
 
-<img src="/images/media/media1.jpg" alt="1" style="float:center;width:1500px;height:5000px;margin:0px 20px">
+<img src="/images/media/media1.jpg" alt="1" style="float:center;width:1500px;height:500px;margin:0px 20px">
 
 | Article | Source |
 | --- | --- |
