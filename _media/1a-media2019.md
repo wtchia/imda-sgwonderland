@@ -7,6 +7,8 @@ collection_name: media
 second_nav_title: Media Coverage
 ---
 
+![1](/images/media/media1.jpg)
+
 | Article | Source |
 | --- | --- |
 | <a href="https://www.straitstimes.com/tech/assistive-technologies-for-children-with-disabilities-highlighted-at-sgdigital-wonderland-2019" target="_blank">Assistive technologies for children with disabilities highlighted at SG:Digital Wonderland 2019</a> | The Straits Times |
