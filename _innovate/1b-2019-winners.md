@@ -24,10 +24,10 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
 
 ---
 
-<figure>
+<p><figure>
   <img src="/images/innovate/yia/YIAlogo_190508_BestCitizenCentric.png" alt="2" style="float:center;width:266px;height:295px;margin:0px 20px">
 <figcaption>Innovation takes a people-first approach by focusing on topics which affects them most, and making the most difference to citizens in the way they work, live and play.</figcaption>
-</figure>
+</figure></p>
 
 **Team Aqua Check from University of San Carlos, Philippines**
 
