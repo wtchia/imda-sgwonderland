@@ -12,7 +12,7 @@ Congratulations to all our Youth Innovation Awards receipients! Read more about 
 ### 2019 Winners
 
 <p><figure>
-  <img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="1" style="width:266px;height:295px;margin:0px 250px">
+  <img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="1" style="width:266px;height:310px;margin:0px 250px">
 Overall best for being the most impactful on the way citizens’ work, live and play
 </figure></p>
 
@@ -26,7 +26,7 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
 ---
 
 <p><figure>
-  <img src="/images/innovate/yia/YIAlogo_190508_BestCitizenCentric.png" alt="2" class="center" style="width:266px;height:295px;margin:0px 250px">
+  <img src="/images/innovate/yia/YIAlogo_190508_BestCitizenCentric.png" alt="2" class="center" style="width:266px;height:310px;margin:0px 250px">
 Innovation takes a people-first approach by focusing on topics which affects them most, and making the most difference to citizens in the way they work, live and play.
 </figure></p>
 
@@ -40,7 +40,7 @@ Water contamination detection mobile application that equips users with the abil
 ---
 
 <p><figure>
-  <img src="/images/innovate/yia/YIAlogo_190508_BestSustainableIdea.png" alt="3" style="width:266px;height:295px;margin:0px 250px">
+  <img src="/images/innovate/yia/YIAlogo_190508_BestSustainableIdea.png" alt="3" style="width:266px;height:310px;margin:0px 250px">
 Most promising product, service, process or platform which has the potential to be sustainable in the long run.</figure></p>
 
 **Team Scoltech from University of Malaya, Malaysia**
@@ -53,7 +53,7 @@ A portable device that can detect scoliosis. The device is able to provide accur
 ---
 
 <p><figure>
-  <img src="/images/innovate/yia/YIAlogo_190508_BestCreativeIdea.png" alt="4" style="width:266px;height:295px;margin:0px 250px">
+  <img src="/images/innovate/yia/YIAlogo_190508_BestCreativeIdea.png" alt="4" style="width:266px;height:310px;margin:0px 250px">
 Demonstrates a creative and unique usage of technology incorporated in the prototype or has developed a prototype that is truly unique.</figure></p>
 
 **Team Robocoach from University of Hong Kong, Hong Kong** 
@@ -66,7 +66,7 @@ Assistive coaching for yoga and golf through AI, computer vision, and deep learn
 ---
 
 <p><figure>
-  <img src="/images/innovate/yia/YIAlogo_190508_VisitorsChoiceAward.png" alt="5" style="width:266px;height:295px;margin:0px 250px">
+  <img src="/images/innovate/yia/YIAlogo_190508_VisitorsChoiceAward.png" alt="5" style="width:266px;height:310px;margin:0px 250px">
   A favourite among visitors; presented to the crowd’s favourite via online and onsite voting</figure></p>
 
 **Team Whizz from Nanyang Technological University, Singapore**
