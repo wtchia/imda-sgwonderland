@@ -22,7 +22,7 @@
   url: null
   sub-links:
       - title: Features
-        url:
+        url: /features
       - title: Media Coverage
         url: /media-2019
 - title: Contact Us
