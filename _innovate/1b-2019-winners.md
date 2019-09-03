@@ -83,26 +83,21 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
   <summary><p><b>Best of Show Award</b></p></summary>
    <p><img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="4" style="float:left;width:266px;height:310px;margin:0px 20px"></p><br><br><br><br>Overall best for being the most impactful on the way citizens’ work, live and play<br><br><br><br>
   <p><i>Winners</i></p>
-  <p><b>Whizz, Nanyang Technological University</b></p>
+  <p><b>Team Whizz from Nanyang Technological University</b></p>
   <p><img src="/images/innovate/yia/whizz.jpg" alt="5"></p>
   <p>Project Description: <br>
 On-demand autonomous e-scooter service with self-redistributing, orientating, parking and charging features.</p> 
   </details>
 <br>
 <br>
-<details>
-  <summary><p><b>Visitors' Choice Award</b></p></summary>
-  <p><img src="/images/innovate/yia/yia-3.jpg" alt="4"></p>
-  <p><i>Winners</i></p>
-  <p>Whizz, Nanyang Technological University</p>
-  </details>
-<br>
-<br>
-<details>
+  <details>
   <summary><p><b>Best Citizen Centric Award</b></p></summary>
-  <p><img src="/images/innovate/yia/yia-4.jpg" alt="5"></p>
+   <p><img src="/images/innovate/yia/yia-4.jpg" alt="4" style="float:left;width:266px;height:310px;margin:0px 20px"></p><br><br><br><br>Overall best for being the most impactful on the way citizens’ work, live and play<br><br><br><br>
   <p><i>Winners</i></p>
-  <p>Aqua Check, University of Santa Carlos</p>
+  <p>Team Aqua Check from University of Santa Carlos</p>
+  <img src="/images/innovate/yia/aquacheck.jpg" alt="1"><br>
+  <p>Project Description: <br>
+Water contamination detection mobile application that equips users with the ability to check water for contamination. The mobile application recognises different types of bacteria by uploading a microscopic photo of water sample onto the app's cloud database.</p> 
   </details>
 <br>
 <br>
@@ -119,4 +114,12 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
   <p><img src="/images/innovate/yia/yia-6.jpg" alt="7"></p>
   <p><i>Winners</i></p>
   <p>Robocoach, University of Hong Kong</p>
+  </details>
+<br>
+<br>
+<details>
+  <summary><p><b>Visitors' Choice Award</b></p></summary>
+  <p><img src="/images/innovate/yia/yia-3.jpg" alt="4"></p>
+  <p><i>Winners</i></p>
+  <p>Whizz, Nanyang Technological University</p>
   </details>
