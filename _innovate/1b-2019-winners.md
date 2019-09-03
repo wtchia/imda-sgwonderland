@@ -81,7 +81,7 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
 <br>
 <details>
   <summary><p><b>Best of Show Award</b></p></summary>
-   <p><img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="4" style="float:left;width:266px;height:310px;margin:0px 20px"></p>Overall best for being the most impactful on the way citizens’ work, live and play<br><br>
+   <p><img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="4" style="float:left;width:266px;height:310px;margin:0px 20px"></p><br><br><br>Overall best for being the most impactful on the way citizens’ work, live and play<br><br><br>
   <p><i>Winners</i></p>
   <p><b>Whizz, Nanyang Technological University</b></p>
   <p><img src="/images/innovate/yia/whizz.jpg" alt="5"></p>  
