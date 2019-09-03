@@ -54,6 +54,7 @@ A portable device that can detect scoliosis. The device is able to provide accur
 
 <p><figure>
   <img src="/images/innovate/yia/YIAlogo_190508_BestCreativeIdea.png" alt="4" style="width:266px;height:310px">
+  <p><img src="/images/innovate/yia/YIAlogo_190508_BestCreativeIdea.png" alt="4" style="float:left;width:266px;height:310px;margin:0px 20px"></p>
 Demonstrates a creative and unique usage of technology incorporated in the prototype or has developed a prototype that is truly unique.</figure></p>
 
 **Team Robocoach from University of Hong Kong, Hong Kong** 
@@ -80,9 +81,9 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
 <br>
 <details>
   <summary><p><b>Best of Show Award</b></p></summary>
-  <p><img src="/images/innovate/yia/yia-2.jpg" alt="3"></p>
+   <p><img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="4" style="float:left;width:266px;height:310px;margin:0px 20px"></p>Overall best for being the most impactful on the way citizens’ work, live and play<br>
   <p><i>Winners</i></p>
-  <p>Whizz, Nanyang Technological University</p>
+  <p><b>Whizz, Nanyang Technological University</b></p>
   <p><i>Members</i></p>
   <ul>
   <small><li>Mr Victor Gwee</li>
