@@ -81,17 +81,10 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
 <br>
 <details>
   <summary><p><b>Best of Show Award</b></p></summary>
-   <p><img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="4" style="float:left;width:266px;height:310px;margin:0px 20px"></p>Overall best for being the most impactful on the way citizens’ work, live and play<br>
+   <p><img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="4" style="float:left;width:266px;height:310px;margin:0px 20px"></p>Overall best for being the most impactful on the way citizens’ work, live and play<br><br>
   <p><i>Winners</i></p>
   <p><b>Whizz, Nanyang Technological University</b></p>
-  <p><i>Members</i></p>
-  <ul>
-  <small><li>Mr Victor Gwee</li>
-  <li>Miss Vivienne Chong</li>
-  <li>Miss Valerie Ho</li>
-  <li>Mr Anthony Fong</li>
-    <li>Mr Melvin Foo</li></small>
-  </ul>
+  <p><img src="/images/innovate/yia/whizz.jpg" alt="5"></p>  
   </details>
 <br>
 <br>
@@ -100,14 +93,6 @@ On-demand autonomous e-scooter service with self-redistributing, orientating, pa
   <p><img src="/images/innovate/yia/yia-3.jpg" alt="4"></p>
   <p><i>Winners</i></p>
   <p>Whizz, Nanyang Technological University</p>
-   <p><i>Members</i></p>
-  <ul>
-  <li>Mr Victor Gwee</li>
-  <li>Miss Vivienne Chong</li>
-  <li>Miss Valerie Ho</li>
-  <li>Mr Anthony Fong</li>
-  <li>Mr Melvin Foo</li>
-  </ul>
   </details>
 <br>
 <br>
