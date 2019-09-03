@@ -14,11 +14,11 @@ Gearing up for the digital future? Want to experience a mock cyber-attack and th
 <a name="1"></a>
 ### **Artificial Intelligence**
 
-**AI Smart Home Studio**<br>
+**Lab on Wheels AI Escape Room**<br>
 
-![1](/images/discover/discover1.jpg)
+![3](/images/discover/csi-experience.jpg)
 
-Experience the home of the future powered by AWS: make a cup of coffee, turn on calming lights to softly illuminate the space, and have your favourite music playing soothingly as you wind down— simply by using your voice. That’s the future of home automation.
+Enter the Lab on Wheels’ AI Escape Room to learn all about AI concepts while solving a series of AI challenges.
 
 **AI Robot World**<br>
 
@@ -26,11 +26,11 @@ Experience the home of the future powered by AWS: make a cup of coffee, turn on 
 
 Enter into an AI Robot world to find out how AI technologies are used in the making of AI Humanoid robots. Be greeted by Cruzer the concierge robot, enjoy a synchronised dance performance by a team of robots, experience a mind blowing AR game with the latest Marvel hero bot plus you can even build, code and play with your own basic robotic creation!
 
-**Lab on Wheels AI Escape Room**<br>
+**AI Smart Home Studio**<br>
 
-![3](/images/discover/csi-experience.jpg)
+![1](/images/discover/discover1.jpg)
 
-Enter the Lab on Wheels’ AI Escape Room to learn all about AI concepts while solving a series of AI challenges.
+Experience the home of the future powered by AWS: make a cup of coffee, turn on calming lights to softly illuminate the space, and have your favourite music playing soothingly as you wind down— simply by using your voice. That’s the future of home automation.
 
 [Back to Top](#top)
 
