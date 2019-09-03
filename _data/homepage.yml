@@ -18,11 +18,11 @@ hero-banner: /images/banner1.jpg
 # I want to dropdown
 i-want-to:
   - title: showcase my innovative product for 2020 
-    url: /about/
+    url: https://go.gov.sg/frlsgdw2020
   - title: conduct tech and media workshops
-    url: /about/
+    url: https://go.gov.sg/sgdwwrks
   - title: register my interest to attend the event 
-    url: /about/
+    url: https://go.gov.sg/visitsgdw2020
 
 
 info-sections:
