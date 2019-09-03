@@ -16,7 +16,7 @@ Gearing up for the digital future? Want to experience a mock cyber-attack and th
 
 **Lab on Wheels AI Escape Room**<br>
 
-![3](/images/discover/csi-experience.jpg)
+![3](/images/discover/ai-bus.jpg)
 
 Enter the Lab on Wheels’ AI Escape Room to learn all about AI concepts while solving a series of AI challenges.
 
