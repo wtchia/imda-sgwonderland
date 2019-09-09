@@ -14,7 +14,7 @@ Congratulations to all our Youth Innovation Awards receipients! Read more about 
 <details>
   <summary><p><b>Best of Show Award</b></p></summary>
    <p><img src="/images/innovate/yia/YIAlogo_190508_BestOfShow.png" alt="4" style="float:left;width:266px;height:310px;margin:0px 20px"></p><br><br><br><br>Overall best for being the most impactful on the way citizens’ work, live and play<br><br><br><br>
-    <p><b>Team Whizz from Nanyang Technological University</b></p>
+    <b>Team Whizz from Nanyang Technological University</b>
   <p><img src="/images/innovate/yia/whizz.jpg" alt="5"></p>
   <p>Project Description: <br>
 On-demand autonomous e-scooter service with self-redistributing, orientating, parking and charging features.</p> 
