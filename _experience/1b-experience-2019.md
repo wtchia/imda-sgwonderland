@@ -15,7 +15,6 @@ Look forward to a plethora of fun and excitement from discovering the latest tec
 ### **Future Ready Living**<br>
 
 ![1](/images/experience/experience1b.jpg)
-[<img src="/images/experience/experience1b.jpg" alt="1">](https://codesg.imda.gov.sg){:target="_blank"}
 
 Get served with your favourite coffee from a robotic barista at Crown Coffee, control all your electronic devices with just a Smart Egg by Aico or try out Argon Transform – the smart helmet for motorists, check these out and more at our cool tech showcases.
 
