@@ -80,11 +80,11 @@ Presented by the following partners:<br>
 | iMMERSIVELY | "An Excavation through Time" in VR |
 | Mages Studio | Safety Training in VR |
 | Mediafront Singapore | Zombie Busters |
+| Our Better World | From Wheelchairs to Motorbikes |
 | Serl.io | Transforming Medical and Health Sciences with Mix Reality |
+| Singapore International Foundation | (In)visible Sound |
 | Sora Media | Dangerous Jobs VR 360 |
 | The MeshMinds Foundation | Art X Tech for Good |
-| Singapore International Foundation | (In)visible Sound |
-| Our Better World | From Wheelchairs to Motorbikes |
 
 [Back to Top](#top)
 
