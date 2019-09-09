@@ -42,7 +42,7 @@ Brought to you by students and the people from Engineering Good and Tech Pals, r
 
 **Tech Excursion**
 
-![5](/images/innovate/innovate4.jpg)
+![5](/images/innovate/innovate6.jpg)
 
 The Tech Excursion is a specially curated experience for children from self-help groups to experience and benefit from technology at the event
 
