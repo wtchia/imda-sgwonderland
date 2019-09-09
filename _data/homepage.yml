@@ -19,10 +19,13 @@ hero-banner: /images/banner1.jpg
 i-want-to:
   - title: showcase my innovative product for 2020 
     url: https://go.gov.sg/frlsgdw2020
+    external: true
   - title: conduct tech and media workshops
     url: https://go.gov.sg/sgdwwrks
+    external: true
   - title: register my interest to attend the event 
     url: https://go.gov.sg/visitsgdw2020
+    external: true
 
 
 info-sections:
